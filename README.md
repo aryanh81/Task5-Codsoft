@@ -1,5 +1,13 @@
 # Task5-Codsoft
-Codsoft Python Programming Internship task.
+Contact Book
+TASK 5
+Contact Information: Store name, phone number, email, and address for each contact.
+Add Contact: Allow users to add new contacts with their details.
+View Contact List: Display a list of all saved contacts with names and phone numbers.
+Search Contact: Implement a search function to find contacts by name or phone number.
+Update Contact: Enable users to update contact details.
+Delete Contact: Provide an option to delete a contact.
+User Interface: Design a user-friendly interface for easy interaction.
 
 # Contact Book
 This Python project implements a simple Contact Book application that allows users to store, view, search, update, and delete contact information. The application provides a command-line interface (CLI) for user interaction.
